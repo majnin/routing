@@ -1,7 +1,7 @@
 # routing
 ray
 
-https://raw.githubusercontent.com/majnin/routing/master/QSrule.con
+https://raw.githubusercontent.com/majnin/routing/master/QSrule.conf
 
 
 qaun
