@@ -6,7 +6,7 @@ https://raw.githubusercontent.com/majnin/routing/master/QSrule.conf
 
 qaun X
 
-https://raw.githubusercontent.com/majnin/routing/master/Dehod.conf
+https://raw.githubusercontent.com/majnin/routing/master/Dehod1xxxx.list
 
 
 Kit
