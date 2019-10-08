@@ -4,7 +4,7 @@ ray
 https://raw.githubusercontent.com/majnin/routing/master/QSrule.conf
 
 
-qaun
+qaun X
 
 https://raw.githubusercontent.com/majnin/routing/master/Dehod.conf
 
