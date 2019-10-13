@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/majnin/routing/master/Dehod1xxxx.list
 
 SOSO
 
-https://raw.githubusercontent.com/majnin/routing/master/SOSO.list
+https://raw.githubusercontent.com/majnin/routing/master/Telegram_X.list
 
 
 S
