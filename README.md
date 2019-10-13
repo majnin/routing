@@ -11,7 +11,7 @@ https://raw.githubusercontent.com/majnin/routing/master/Dehod1xxxx.list
 
 Kit
 
-https://raw.githubusercontent.com/majnin/routing/master/Kit.list
+https://raw.githubusercontent.com/majnin/routing/master/SOSO.list
 
 
 sss
