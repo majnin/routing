@@ -1,20 +1,26 @@
 # routing
+
 ray
 
 https://raw.githubusercontent.com/majnin/routing/master/QSrule.conf
 
 
-qaun X
+AdBlack
+
+https://raw.githubusercontent.com/majnin/routing/master/AdBlack.list
+
+
+X
 
 https://raw.githubusercontent.com/majnin/routing/master/Dehod1xxxx.list
 
 
-Kit
+SOSO
 
 https://raw.githubusercontent.com/majnin/routing/master/SOSO.list
 
 
-sss
+S
 
 https://raw.githubusercontent.com/majnin/routing/master/SSS.conf
 
