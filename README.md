@@ -20,9 +20,15 @@ SOSO
 https://raw.githubusercontent.com/majnin/routing/master/Telegram_X.list
 
 
-S
+SSS
 
 https://raw.githubusercontent.com/majnin/routing/master/SSS.conf
+
+
+HuHuo
+
+https://raw.githubusercontent.com/majnin/routing/master/HuHuo.conf
+
 
 URL_XXX
 
