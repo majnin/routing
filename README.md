@@ -5,14 +5,14 @@ ray
 https://raw.githubusercontent.com/majnin/routing/master/QSrule.conf
 
 
-AdBlack
+BBB
 
 https://raw.githubusercontent.com/majnin/routing/master/AdBlack.list
 
 
-X
+AAAA
 
-https://raw.githubusercontent.com/majnin/routing/master/Dehod1xxxx.list
+https://raw.githubusercontent.com/majnin/routing/master/AAAA.list
 
 
 SOSO
