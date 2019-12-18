@@ -33,3 +33,8 @@ https://raw.githubusercontent.com/majnin/routing/master/HuHuo.conf
 URL_XXX
 
 https://raw.githubusercontent.com/majnin/routing/master/Dehod1xxxx.conf
+
+
+pepi
+
+https://raw.githubusercontent.com/majnin/routing/master/pepi.conf
