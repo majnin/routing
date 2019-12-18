@@ -1,7 +1,7 @@
 # routing
 
-ray
-
+ 订阅
+ 
 https://raw.githubusercontent.com/majnin/routing/master/QSrule.conf
 
 
