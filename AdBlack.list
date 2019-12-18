@@ -4,6 +4,15 @@ DOMAIN-KEYWORD,adservice,REJECT
 DOMAIN-KEYWORD,analytics,REJECT
 DOMAIN-KEYWORD,analysis,REJECT
 
+# > YouTube
+HOST-SUFFIX,azabu-u.ac.jp,REJECT
+HOST-SUFFIX,couchcoaster.jp,REJECT
+HOST-SUFFIX,delivery.dmkt-sp.jp,REJECT
+HOST-SUFFIX,ehg-youtube.hitbox.com,REJECT
+HOST-SUFFIX,m-78.jp,REJECT
+HOST-SUFFIX,nichibenren.or.jp,REJECT
+HOST-SUFFIX,nicorette.co.kr,REJECT
+
 DOMAIN-SUFFIX,42trck.com,REJECT
 DOMAIN-SUFFIX,51.la,REJECT
 DOMAIN-SUFFIX,adcolony.com,REJECT
@@ -217,12 +226,41 @@ DOMAIN-SUFFIX,googlesyndication.com,REJECT
 DOMAIN-SUFFIX,googletagmanager.com,REJECT
 DOMAIN-SUFFIX,googletagservices.com,REJECT
 # (H)
-# > HunanTV
-DOMAIN-SUFFIX,da.mgtv.com,REJECT
-DOMAIN-SUFFIX,da.hunantv.com,REJECT
-DOMAIN-SUFFIX,log.hunantv.com,REJECT
-DOMAIN,log.v2.hunantv.com,REJECT
-DOMAIN,v2.log.hunantv.com,REJECT
+# > MGTV
+HOST-SUFFIX,ads-api.videojj.com,REJECT
+HOST-SUFFIX,cdn.cmop.mgtv.com,REJECT
+HOST-SUFFIX,click.hunantv.com,REJECT
+HOST-SUFFIX,cmop.mgtv.com,REJECT
+HOST-SUFFIX,cytron.videojj.com,REJECT
+HOST-SUFFIX,cytroncdn.videojj.com,REJECT
+HOST-SUFFIX,da.hunantv.com,REJECT
+HOST-SUFFIX,da.mgtv.com,REJECT
+HOST-SUFFIX,imgaliyun.da.mgtv.com,REJECT
+HOST-SUFFIX,imgaliyun.res.mgtv.com,REJECT
+HOST-SUFFIX,m2.da.mgtv.com,REJECT
+HOST-SUFFIX,me.videojj.com,REJECT
+HOST-SUFFIX,mobaliyun.res.mgtv.com,REJECT
+HOST-SUFFIX,mobile.da.mgtv.com,REJECT
+HOST-SUFFIX,mobile2.da.mgtv.com,REJECT
+HOST-SUFFIX,mp4.res.hunantv.com,REJECT
+HOST-SUFFIX,pc.da.mgtv.com,REJECT
+HOST-SUFFIX,pc1.da.mgtv.com,REJECT
+HOST-SUFFIX,pcvideoaliyun.titan.mgtv.com,REJECT
+HOST-SUFFIX,pcvideoyd.titan.mgtv.com,REJECT
+HOST-SUFFIX,pcweb.v1.mgtv.com,REJECT
+HOST-SUFFIX,plat.videojj.com,REJECT
+HOST-SUFFIX,py.da.mgtv.com,REJECT
+HOST-SUFFIX,res.hunantv.com,REJECT
+HOST-SUFFIX,store.videojj.com,REJECT
+HOST-SUFFIX,v2.da.mgtv.com,REJECT
+HOST-SUFFIX,va.videojj.com,REJECT
+HOST-SUFFIX,videojj.com,REJECT
+HOST-SUFFIX,web.da.mgtv.com,REJECT
+HOST-SUFFIX,x.da.hunantv.com,REJECT
+HOST-SUFFIX,x.da.mgtv.com,REJECT
+HOST-SUFFIX,x1.da.hunantv.com,REJECT
+HOST-SUFFIX,y.da.hunantv.com,REJECT
+HOST-SUFFIX,y.da.mgtv.com,REJECT
 # (I)
 # > iQiyi
 DOMAIN,ifacelog.iqiyi.com,REJECT
@@ -257,17 +295,6 @@ DOMAIN,minfo.wps.cn,REJECT
 DOMAIN,mobad.ijinshan.com,REJECT
 DOMAIN,ups.ksmobile.net,REJECT
 DOMAIN,ws.ksmobile.net,REJECT
-# (L)
-# > Le
-DOMAIN-SUFFIX,webp2p.letv.com,REJECT
-DOMAIN,ark.letv.com,REJECT
-DOMAIN,emma-414870e223.huodonghezi.com,REJECT
-DOMAIN,g3.letv.com,REJECT
-DOMAIN,n.mark.letv.com,REJECT
-# > 乐播投屏
-DOMAIN,ad.hpplay.cn,REJECT
-DOMAIN,adeng.hpplay.cn,REJECT
-DOMAIN,rp.hpplay.cn,REJECT
 # (M)
 # > MI
 DOMAIN-SUFFIX,ad.intl.xiaomi.com,REJECT
@@ -278,11 +305,6 @@ DOMAIN,adv.sec.intl.miui.com,REJECT
 DOMAIN,adv.sec.miui.com,REJECT
 DOMAIN,data.mistat.xiaomi.com,REJECT
 DOMAIN,tracking.intl.miui.com,REJECT
-# > 墨迹天气
-DOMAIN,ad.api.moji.com,REJECT
-DOMAIN,adlaunch.moji.com,REJECT
-DOMAIN,ads.mojicdn.com,REJECT
-DOMAIN,v1.log.moji.com,REJECT
 # (N)
 # > NetEase
 DOMAIN,ad.bn.netease.com,REJECT
@@ -301,11 +323,6 @@ DOMAIN,nex.163.com,REJECT
 DOMAIN,yt-adp.nosdn.127.net,REJECT
 DOMAIN,yt-adp.ws.126.net,REJECT
 # (P)
-# > PPTV
-DOMAIN,ads.aplus.pptv.com,REJECT
-DOMAIN,ads.aplusapi.pptv.com,REJECT
-DOMAIN,asimgs.pplive.cn,REJECT
-DOMAIN,de.as.pptv.com,REJECT
 # > Photoable
 DOMAIN,regist.fotoable.com,REJECT
 DOMAIN,cdn.adapi.fotoable.com,REJECT
