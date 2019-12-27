@@ -20,7 +20,6 @@ DOMAIN-SUFFIX,meituan.com,DIRECT
 DOMAIN-SUFFIX,netease.im,DIRECT
 # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  ZZ <<<<<<<<<<<<<<<<<<<<<<<<<
 
-DOMAIN-SUFFIX,youtube.com,PROXY
 DOMAIN-SUFFIX,cdninstagram.com,PROXY
 DOMAIN-SUFFIX,instagram.com,PROXY
 DOMAIN-SUFFIX,twitch.tv,PROXY
@@ -32,6 +31,13 @@ DOMAIN-SUFFIX,gu.dyntrk.com,PROXY
 DOMAIN-KEYWORD,bbc,PROXY
 DOMAIN-SUFFIX,gstatic.com,PROXY
 DOMAIN-SUFFIX,cdn.qooqlevideo.com,PROXY
+
+# > YouTube
+USER-AGENT,com.google.ios.youtube*,PROXY
+USER-AGENT,YouTube*,PROXY
+DOMAIN-SUFFIX,googlevideo.com,PROXY
+DOMAIN-SUFFIX,youtube.com,PROXY
+DOMAIN,youtubei.googleapis.com,PROXY
 
 # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
