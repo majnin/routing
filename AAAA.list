@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,aliyun-inc.com,DIRECT
 DOMAIN-SUFFIX,myzaker.com,DIRECT
 DOMAIN-SUFFIX,meituan.com,DIRECT
 DOMAIN-SUFFIX,netease.im,DIRECT
+
 # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  ZZ <<<<<<<<<<<<<<<<<<<<<<<<<
 
 DOMAIN-SUFFIX,cdninstagram.com,PROXY
@@ -30,7 +31,9 @@ DOMAIN-SUFFIX,dmcdn.net,PROXY
 DOMAIN-SUFFIX,gu.dyntrk.com,PROXY
 DOMAIN-KEYWORD,bbc,PROXY
 DOMAIN-SUFFIX,gstatic.com,PROXY
-DOMAIN-SUFFIX,cdn.qooqlevideo.com,PROXY
+DOMAIN-SUFFIX,qooqlevideo.com,PROXY
+DOMAIN-SUFFIX,dtscdn.com,PROXY
+DOMAIN-SUFFIX,crwdcntrl.net,PROXY
 
 # > YouTube
 USER-AGENT,com.google.ios.youtube*,PROXY
