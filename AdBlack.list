@@ -7,6 +7,7 @@ DOMAIN-KEYWORD,adsite,REJECT
 DOMAIN-SUFFIX,juicyads.com,REJECT
 
 # > YouTube
+DOMAIN-SUFFIX,adsafeprotected.com,REJECT
 DOMAIN-SUFFIX,doubleclick.net,REJECT
 DOMAIN-SUFFIX,pagead2.googlesyndication.com,REJECT
 DOMAIN-SUFFIX,static.doubleclick.net,REJECT
