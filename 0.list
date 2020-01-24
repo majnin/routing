@@ -879,5 +879,3 @@ DOMAIN-KEYWORD,torrent
 #  LAN,debugging rules should place above this line
 DOMAIN-SUFFIX,local
 
-# GeoIP China
-GEOIP,CN
