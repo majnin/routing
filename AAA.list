@@ -1,8 +1,6 @@
 # China Area Netwo
 HOST-SUFFIX,cn
-# >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-USER-AGENT,newssocial*
-
+ASER-AGENT,newssocial*
 HOST-SUFFIX,baertt.com
 HOST-SUFFIX,gitee.com
 HOST-SUFFIX,mparticle.com
